@@ -1,0 +1,2 @@
+[2019-12-31 10:16:47,891] [log.py|__console] [line:46] ERROR   : <public.page_obj.test1Page.test1 object at 0x000002E2C1BB3AC8>页面中未能找到('id', 'msg')元素
+[2019-12-31 10:17:01,440] [log.py|__console] [line:46] ERROR   : <public.page_obj.test1Page.test1 object at 0x000002E2C2829EC8>页面中未能找到('xpath', "//span[@class='username']/a[1]")元素

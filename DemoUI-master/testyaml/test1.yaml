@@ -1,0 +1,55 @@
+testinfo:
+  - id: test_baidu001
+    title: 登录测试
+    info: 登录百度账户
+testcase:
+#  - element_info: switchAccountLogin
+#    find_type: ID
+#    operate_type: click
+#    info: 点击登录按钮
+#  - element_info: switchAccountLogin
+#    find_type: ID
+#    operate_type: click
+#    info: 点击账号密码登录按钮
+  - element_info: username
+    find_type: ID
+    operate_type: send_keys
+    info: 输入账号
+  - element_info: password
+    find_type: ID
+    operate_type: send_keys
+    info: 输入密码
+#  - element_info: p_low_login_enable
+#    find_type: ID
+#    operate_type: click
+#    info: 点击勾选下次自动登录
+  - element_info: //input[@class='btn_login']
+    find_type: xpath
+    operate_type: click
+    info: 点击登录按钮
+#  - element_info: s_username_top
+#    find_type: ID
+#    operate_type: perform
+#    info: 鼠标悬停在用户名上
+  - element_info: //div[@class='user-info']/a[1]
+    find_type: xpath
+    operate_type: click
+    info: 点击退出按钮
+  - element_info: //button[@i-id='确定']
+    find_type: xpath
+    operate_type: click
+    info: 点击确认按钮关闭弹窗
+
+check:
+  - element_info: //span[@class='username']/a[1]
+    find_type: xpath
+    info: 成功登录
+  - element_info: //div[@class='user-info']/a[@class='login-link']
+    find_type: xpath
+    info: 成功退出
+  - element_info: msg
+    find_type: ID
+    info: 检查输入手机号或密码，登录异常提示
+  - element_info: //div[@class='ct_input errors']
+    find_type: xpath
+    info: 为保障您的账号安全，请输入图片验证码后重新登录

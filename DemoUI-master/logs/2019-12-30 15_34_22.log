@@ -1,0 +1,1 @@
+[2019-12-30 15:34:48,051] [log.py|__console] [line:46] ERROR   : <public.page_obj.test1Page.test1 object at 0x0000019C752B1508>页面中未能找到('xpath', "//span[@class='username']/a[1]")元素
