@@ -36,4 +36,3 @@ def run_case(all_case,result_path=setting.TEST_REPORT):
 if __name__ =="__main__":
     cases = add_case()
     run_case(cases)
-    #

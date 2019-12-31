@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2de8b9af-b300-452c-adb7-7f1bb5fe1de3" name="Default Changelist" comment="" />
+    <list default="true" id="2de8b9af-b300-452c-adb7-7f1bb5fe1de3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_demoui_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_demoui_test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DemoUI-master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1V90wzvG49lBErHvq5EkFs9VCmt" />
@@ -36,7 +40,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -187,11 +191,34 @@
       <workItem from="1577753693219" duration="1860000" />
       <workItem from="1577769940617" duration="2028000" />
       <workItem from="1577771985590" duration="1449000" />
+      <workItem from="1577776035030" duration="960000" />
     </task>
+    <task id="LOCAL-00001" summary="添加测试用例">
+      <created>1577776380134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577776380134</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加测试用例">
+      <created>1577776515807</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577776515807</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/DemoUI-master" />
+    </ignored-roots>
+    <MESSAGE value="添加测试用例" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加测试用例" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="149" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577753975744">
@@ -202,6 +229,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1576732882155" />
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1577776515239">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577776515239" />
     <state x="734" y="102" key="FileChooserDialogImpl" timestamp="1577770432955">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -210,10 +241,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="469" y="255" width="366" height="171" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1577772606890" />
-    <state x="496" y="236" key="Github.ShareDialog" timestamp="1577772452266">
+    <state x="496" y="236" key="Github.ShareDialog" timestamp="1577776093584">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="496" y="236" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1577772452266" />
+    <state x="496" y="236" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1577776093584" />
     <state x="468" y="97" key="Github.UntrackedFilesDialog" timestamp="1577772568220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -250,10 +281,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="595" height="200" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1577242596083" />
-    <state x="254" y="0" key="SettingsEditor" timestamp="1577772836596">
+    <state x="254" y="0" key="SettingsEditor" timestamp="1577776073873">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="254" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577772836596" />
+    <state x="254" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577776073873" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1577776528272">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577776528272" />
     <state width="595" height="343" key="XDebugger.FullValuePopup" timestamp="1577241907260">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
