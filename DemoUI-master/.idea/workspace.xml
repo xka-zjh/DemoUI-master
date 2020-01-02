@@ -1,10 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2de8b9af-b300-452c-adb7-7f1bb5fe1de3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2de8b9af-b300-452c-adb7-7f1bb5fe1de3" name="Default Changelist" comment="修改了一些bug">
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_16_51.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_36_50.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_36_51.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_36_52.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_37_57.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_37_58.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_37_59.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_42_14.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_42_16.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_46_07.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_46_08.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_46_09.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_59_41.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_59_42.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 13_59_43.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 14_34_37.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 14_34_38.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 14_34_39.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 14_36_41.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 14_36_42.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 14_36_43.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 14_40_56.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 14_40_57.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-01-02 14_40_58.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_demoui_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_demoui_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 15_34_22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 15_34_33.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 15_34_34.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 15_34_35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 15_34_36.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 15_49_07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 15_49_17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 15_49_29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 15_49_30.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 15_49_31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_09_55.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_10_05.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_10_17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_10_18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_10_19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_30_45.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_30_53.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_31_05.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_31_06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_31_07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_37_31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_37_41.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_37_43.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_37_44.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-30 16_37_45.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 09_43_48.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 09_43_58.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 09_43_59.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 09_44_00.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 09_44_01.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 09_44_02.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 10_16_26.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 10_16_36.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 10_16_48.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 10_16_49.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 10_16_50.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 10_20_51.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 10_20_52.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 10_23_05.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/2020-01-02 13_16_49.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-12-31 10_23_06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/HTMLTestRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/package/HTMLTestRunner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 15_34_22result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 15_35_30result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 15_36_02result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 15_36_05result.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/2020-01-02 13_42_04result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 15_48_36result.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/2020-01-02 13_16_39result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 15_48_56result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 15_49_07result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 15_54_37result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 15_56_12result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 15_56_55result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 16_05_52result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 16_06_36result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 16_08_07result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 16_08_21result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 16_08_33result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 16_09_55result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 16_30_45result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 16_31_26result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 16_31_39result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 16_36_36result.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/2020-01-02 13_45_57result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 16_37_31result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 17_11_21result.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/2020-01-02 13_59_31result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 17_15_02result.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/2020-01-02 14_34_27result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 17_28_31result.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/2020-01-02 14_36_31result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-30 17_29_09result.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/2020-01-02 14_40_46result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-31 09_05_41result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-31 09_15_58result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-31 09_36_31result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-31 09_39_46result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-31 09_43_48result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-31 10_15_06result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-31 10_16_26result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-31 10_20_41result.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/2020-01-02 13_36_40result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-12-31 10_22_55result.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/2020-01-02 13_37_47result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/screenshot/name_empty.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/screenshot/name_sign_success.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/screenshot/pawd_empty.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/report/screenshot/pawd_empty.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/screenshot/pawd_error.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/screenshot/phone_empty.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/report/screenshot/phone_empty.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/screenshot/phone_error.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/screenshot/phone_pawd_empty.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/report/screenshot/phone_pawd_empty.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/screenshot/phone_pawd_success.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,13 +128,16 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1V90wzvG49lBErHvq5EkFs9VCmt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -191,7 +299,8 @@
       <workItem from="1577753693219" duration="1860000" />
       <workItem from="1577769940617" duration="2028000" />
       <workItem from="1577771985590" duration="1449000" />
-      <workItem from="1577776035030" duration="960000" />
+      <workItem from="1577776035030" duration="2442000" />
+      <workItem from="1577935949687" duration="6690000" />
     </task>
     <task id="LOCAL-00001" summary="添加测试用例">
       <created>1577776380134</created>
@@ -207,18 +316,27 @@
       <option name="project" value="LOCAL" />
       <updated>1577776515807</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改了一些bug">
+      <created>1577777236722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577777236722</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/DemoUI-master" />
     </ignored-roots>
     <MESSAGE value="添加测试用例" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加测试用例" />
+    <MESSAGE value="修改了一些bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了一些bug" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="149" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577753975744">
@@ -229,10 +347,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1576732882155" />
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1577776515239">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1577777859788">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577776515239" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577777859788" />
     <state x="734" y="102" key="FileChooserDialogImpl" timestamp="1577770432955">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -249,22 +367,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="468" y="97" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1577772568220" />
-    <state width="1222" height="119" key="GridCell.Tab.0.bottom" timestamp="1577769827654">
+    <state width="1237" height="121" key="GridCell.Tab.0.bottom" timestamp="1577947246482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="119" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577769827654" />
-    <state width="1222" height="119" key="GridCell.Tab.0.center" timestamp="1577769827654">
+    <state width="1237" height="121" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577947246482" />
+    <state width="1237" height="121" key="GridCell.Tab.0.center" timestamp="1577947246482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="119" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577769827654" />
-    <state width="1222" height="119" key="GridCell.Tab.0.left" timestamp="1577769827653">
+    <state width="1237" height="121" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577947246482" />
+    <state width="1237" height="121" key="GridCell.Tab.0.left" timestamp="1577947246481">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="119" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577769827653" />
-    <state width="1222" height="119" key="GridCell.Tab.0.right" timestamp="1577769827654">
+    <state width="1237" height="121" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577947246481" />
+    <state width="1237" height="121" key="GridCell.Tab.0.right" timestamp="1577947246482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="119" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577769827654" />
+    <state width="1237" height="121" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577947246482" />
     <state width="595" height="200" key="GridCell.Tab.1.bottom" timestamp="1577242596083">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -285,18 +403,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="254" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577776073873" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1577776528272">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1577777247338">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577776528272" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577777247338" />
     <state width="595" height="343" key="XDebugger.FullValuePopup" timestamp="1577241907260">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="595" height="343" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1577241907260" />
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1577771987682">
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1577935955218">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1577771987682" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1577935955218" />
     <state x="752" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577771826790">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -334,7 +452,7 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DemoUI_master$run_demoui_test.coverage" NAME="run_demoui_test Coverage Results" MODIFIED="1577754958163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DemoUI_master$run_demoui_test.coverage" NAME="run_demoui_test Coverage Results" MODIFIED="1577947246475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DemoUI_master$test1Page.coverage" NAME="test1Page Coverage Results" MODIFIED="1576823332996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public/page_obj" />
     <SUITE FILE_PATH="coverage/DemoUI_master$Unittests_for_login_sta_Demo_UI.coverage" NAME="Unittests for login_sta.Demo_UI Coverage Results" MODIFIED="1576651919870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
     <SUITE FILE_PATH="coverage/DemoUI_master$base.coverage" NAME="base Coverage Results" MODIFIED="1576826512045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public/page_obj" />
